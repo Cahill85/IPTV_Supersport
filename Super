@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1, Supersport 1
+http://dstvdm_hd1_hls-lh.akamaihd.net/i/SS1_1@14433/master.m3u8
+#EXTINF:-1, Supersport 2
+http://dstvdm_hd1_hls-lh.akamaihd.net/i/SS2_1@27055/master.m3u8
